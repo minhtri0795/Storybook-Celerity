@@ -1,0 +1,55 @@
+// Bold
+@font-face {
+  font-family: "FoundersGrotesk-Bold";
+  font-display: swap;
+  src: url("./fonts/FoundersGrotesk-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: "FoundersGrotesk-BoldItalic";
+  font-display: swap;
+  src: url("./fonts/FoundersGrotesk-BoldItalic.otf") format("opentype");
+}
+// Semi Bold
+@font-face {
+  font-family: "FoundersGrotesk-SemiBold";
+  font-display: swap;
+  src: url("./fonts/FoundersGrotesk-SemiBold.otf") format("opentype");
+}
+@font-face {
+  font-family: "FoundersGrotesk-SemBoldItalic";
+  font-display: swap;
+  src: url("./fonts/FoundersGrotesk-SemBoldItalic.otf") format("opentype");
+}
+// Medium
+@font-face {
+  font-family: "FoundersGrotesk-Medium";
+  font-display: swap;
+  src: url("./fonts/FoundersGrotesk-Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: "FoundersGrotesk-MediumItalic";
+  font-display: swap;
+  src: url("./fonts/FoundersGrotesk-MediumItalic.otf") format("opentype");
+}
+// Regular
+@font-face {
+  font-family: "FoundersGrotesk-Regular";
+  font-display: swap;
+  src: url("./fonts/FoundersGrotesk-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "FoundersGrotesk-RegularItalic";
+  font-display: swap;
+  src: url("./fonts/FoundersGrotesk-RegularItalic.otf") format("opentype");
+}
+// Light
+@font-face {
+  font-family: "FoundersGrotesk-Light";
+  font-display: swap;
+  src: url("./fonts/FoundersGrotesk-Light.otf") format("opentype");
+}
+@font-face {
+  font-family: "FoundersGrotesk-LightItalic";
+  font-display: swap;
+  src: url("./fonts/FoundersGrotesk-LightItalic.otf") format("opentype");
+}
